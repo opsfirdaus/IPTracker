@@ -1,0 +1,9 @@
+How To Use:
+
+- Open your Terminal or Else
+- Type this to install git tools: "sudo apt-get install git"
+- Type this to install python tools: "sudo apt-get install python"
+- Type: "git clone https://github.com/BenMinxIDN/IPTracker.git"
+- Type: "cd IPTracker"
+- Type: "chmod +x IPTracker.py"
+- Type: "python IPTracker.py"
